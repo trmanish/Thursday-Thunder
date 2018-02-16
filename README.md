@@ -20,4 +20,8 @@
 
 [Bagging- Random Forests](https://github.com/trmanish/Thursday-Thunder/blob/master/Epilogue-Bagging-Random%20Forests.pdf)
 
-[![Bagging- Random Forests](https://github.com/trmanish/Thursday-Thunder/blob/master/files/Screen%20Shot%202018-02-15%20at%205.20.41%20PM.png)](https://github.com/trmanish/Thursday-Thunder/blob/master/files/Week10-Bagging-Random%20Forests.pdf)
+
+
+<a href="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Week10-Bagging-Random%20Forests.pdf
+" target="_blank"><img src="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Screen%20Shot%202018-02-15%20at%205.20.41%20PM.png" 
+alt="PCA" width="240" height="180" border="10" /></a>
