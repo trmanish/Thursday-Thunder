@@ -40,7 +40,7 @@ alt="PCA" width="700" height="500" border="10" /></a>
 - **p-values**  
 
 
-<a href="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Week5-_p-values.pdf
+<a href="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Week5-_p-value.pdf
 " target="_blank"><img src="https://github.com/trmanish/Thursday-Thunder/blob/master/files/p-values.png" 
 alt="PCA" width="700" height="500" border="10" /></a>  
 
