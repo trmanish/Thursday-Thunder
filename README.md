@@ -7,7 +7,7 @@
 
 
 
-<a href="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Week3-_PCA-Eigenvectors%20(1).pdf
+<a href="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Week3-_PCA-Eigenvectors.pdf
 " target="_blank"><img src="https://github.com/trmanish/Thursday-Thunder/blob/master/files/PCA.png" 
 alt="PCA" width="700" height="500" border="10" /></a>
 
