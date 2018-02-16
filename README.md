@@ -19,3 +19,5 @@
 [Support Vector Machines- Kernels](https://github.com/trmanish/Thursday-Thunder/blob/master/Week%209-%20SVM-Kernels.pdf)
 
 [Bagging- Random Forests](https://github.com/trmanish/Thursday-Thunder/blob/master/Epilogue-Bagging-Random%20Forests.pdf)
+
+[![Bagging- Random Forests](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]
