@@ -24,7 +24,7 @@ alt="PCA" width="700" height="500" border="10" /></a>
 ---
 
 
-- **Latent Dirichelt Allocation**  
+- **Latent Dirichlet Allocation**  
 
 
 <a href="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Week4-LDA.pdf
