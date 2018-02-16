@@ -9,18 +9,23 @@
 
 <a href="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Week3-%20PCA-Eigenvectors.pdf
 " target="_blank"><img src="https://github.com/trmanish/Thursday-Thunder/blob/master/files/PCA.png" 
-alt="PCA" width="700" height="500" border="10" /></a>  
+alt="PCA" width="700" height="500" border="10" /></a>
 
 
 
 
-- **Visualizing PCA**  
+
+
+- **Visualizing PCA**
+
 
 
 
 <a href="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Week3-%20PCA-Visualization.pdf
 " target="_blank"><img src="https://github.com/trmanish/Thursday-Thunder/blob/master/files/PCA-Visualization.png" 
-alt="PCA" width="700" height="500" border="10" /></a>  
+alt="PCA" width="700" height="500" border="10" /></a>
+
+
 
 
 
