@@ -11,6 +11,8 @@
 " target="_blank"><img src="https://github.com/trmanish/Thursday-Thunder/blob/master/files/PCA.png" 
 alt="PCA" width="700" height="500" border="10" /></a>
 
+---
+
 
 
 
@@ -32,18 +34,20 @@ alt="PCA" width="700" height="500" border="10" /></a>
 - **Latent Dirichelt Allocation**  
 
 
-
 <a href="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Week4-LDA.pdf
 " target="_blank"><img src="https://github.com/trmanish/Thursday-Thunder/blob/master/files/LDA.png" 
-alt="PCA" width="700" height="500" border="10" /></a>  
+alt="PCA" width="700" height="500" border="10" /></a>
+
+---
 
 
 - **p-values**  
 
-
 <a href="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Week5-%20p-values.pdf
 " target="_blank"><img src="https://github.com/trmanish/Thursday-Thunder/blob/master/files/p-values.png" 
 alt="PCA" width="700" height="500" border="10" /></a>  
+
+---
 
 - **Bagging- Random Forests**  
 
