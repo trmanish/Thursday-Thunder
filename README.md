@@ -18,7 +18,7 @@ alt="PCA" width="700" height="500" border="10" /></a>
 
 
 <a href="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Week3-_PCA-Visualization.pdf
-" target="_blank"><img src="https://github.com/trmanish/Thursday-Thunder/blob/master/files/PCA-Visualization.png" 
+" target="_blank"><img src="https://github.com/trmanish/Thursday-Thunder/blob/master/files/PCa_vis.png" 
 alt="PCA" width="700" height="500" border="10" /></a>  
 
 ---
@@ -28,7 +28,7 @@ alt="PCA" width="700" height="500" border="10" /></a>
 
 
 <a href="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Week4-LDA.pdf
-" target="_blank"><img src="https://github.com/trmanish/Thursday-Thunder/blob/master/files/LDA.png" 
+" target="_blank"><img src="https://github.com/trmanish/Thursday-Thunder/blob/master/files/lda.png" 
 alt="PCA" width="700" height="500" border="10" /></a>    
 
 
