@@ -20,4 +20,4 @@
 
 [Bagging- Random Forests](https://github.com/trmanish/Thursday-Thunder/blob/master/Epilogue-Bagging-Random%20Forests.pdf)
 
-[![Bagging- Random Forests](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]
+[![Bagging- Random Forests](https://github.com/trmanish/Thursday-Thunder/blob/master/Screen%20Shot%202018-02-15%20at%204.38.14%20PM.png)](https://github.com/trmanish/Thursday-Thunder/blob/master/Epilogue-Bagging-Random%20Forests.pdf)
