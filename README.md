@@ -2,6 +2,12 @@
 
 ## Random Gibberish on Data Science
 
+- Principal Components Analysis
+
+<a href="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Week3-%20PCA-Eigenvectors.pdf
+" target="_blank"><img src="https://github.com/trmanish/Thursday-Thunder/blob/master/files/PCA.png" 
+alt="PCA" width="800" height="300" border="10" /></a>
+
 [Principal Components Analysis](https://github.com/trmanish/Thursday-Thunder/blob/master/Week%203-%20PCA-Eigenvectors.pdf)
 
 [Principal Components Analysis- Visualization](https://github.com/trmanish/Thursday-Thunder/blob/master/Week%203-%20PCA-Visualization.pdf)
