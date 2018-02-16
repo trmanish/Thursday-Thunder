@@ -24,4 +24,4 @@
 
 <a href="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Week10-Bagging-Random%20Forests.pdf
 " target="_blank"><img src="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Screen%20Shot%202018-02-15%20at%205.20.41%20PM.png" 
-alt="PCA" width="300" height="300" border="10" /></a>
+alt="PCA" width="900" height="800" border="10" /></a>
