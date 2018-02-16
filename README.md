@@ -53,7 +53,7 @@ alt="PCA" width="700" height="500" border="10" /></a>
 
 
 <a href="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Week10-Bagging-Random_Forests.pdf
-" target="_blank"><img src="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Bagging.png" 
+" target="_blank"><img src="https://github.com/trmanish/Thursday-Thunder/blob/master/files/RF.png" 
 alt="PCA" width="700" height="500" border="10" /></a>  
 
 ---  
