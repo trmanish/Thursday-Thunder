@@ -63,7 +63,7 @@ alt="PCA" width="700" height="500" border="10" /></a>
 
 
 <a href="https://github.com/trmanish/Thursday-Thunder/blob/master/files/Week6-_PCA__Var.pdf
-" target="_blank"><img src="https://github.com/trmanish/Thursday-Thunder/blob/master/files/PCA-var.png" 
+" target="_blank"><img src="https://github.com/trmanish/Thursday-Thunder/blob/master/files/PCA_var.png" 
 alt="PCA" width="700" height="500" border="10" /></a>  
 
 ---  
